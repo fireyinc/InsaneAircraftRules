@@ -85,17 +85,20 @@ have to watch the pilots and all crew do the Test by running up and down the ent
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
-COMPUTER BOOTUP PROCEDURE
+Flight Computer Startup Procedure.
 
 Turn battery, APU and generators on.
+
 Turn key to the ON position. 
+
 Insert the startup floppy disk. Any other disk will throw one of these two errors:
-Invalid system disc. Replace the disk then press RESET when ready.
-Non-system disk or disk error. Replace the disk then press RESET when ready.
+	Invalid system disc. Replace the disk then press RESET when ready.
+	Non-system disk or disk error. Replace the disk then press RESET when ready.
+
 Simply insert the correct disk and press the RESET key.
 
-If the disk is currupt, you can create your own, or order one, see the next page for ordering instructions.
+If the disk is corrupt, you can create your own, or order one, see the next page for ordering instructions.
 
-After booting from disk, remove the disk from the computer and insert the correct OS disk. Failure to do so may result in the plane exploding
+After booting from disk, remove the disk from the computer and insert the correct OS disk. Failure to do so may result in the flight computer exploding.
 
 
