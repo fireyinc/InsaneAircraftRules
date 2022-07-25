@@ -1,2 +1,2 @@
-# AircraftRules
-Some really stupid rules about airplanes, and more
+# InsaneAircraftRules
+Some really stupid, insane, and straight up flabbergasting rules about airplanes, and other flying vehicles.
