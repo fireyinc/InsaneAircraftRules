@@ -101,4 +101,6 @@ If the disk is corrupt, you can create your own, or order one, see the next page
 
 After booting from disk, remove the disk from the computer and insert the correct OS disk. Failure to do so may result in the flight computer exploding.
 
+Do not install Windows 8. Windows 8 fucking sucks!
+
 
