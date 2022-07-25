@@ -1,0 +1,85 @@
+Rules of Flight and Operation of a flying vehicle.
+
+Aircraft with engines from its theme of manufacturing location, such as Russian, American, or European, will perform better than aircraft with engines not from their theme of manufacturing location.
+	Examples:
+		
+		- Boeing 777 with the GE90, or PW4000 Engine will operate at maximum efficiency.
+		- Boeing 777 with the RR Trent 800 will not operate at maximum efficiency.
+
+There is an exception to this rule however, in that there can be so called "Traitor Aircraft". There is a 10% chance that every time a plane is manufactured, that it can be a "Traitor Plane". A traitor plane is when the airplane does not
+like engines from its theme of manufacture, and will instead prefer engines from another manufacturing location.
+	Examples: 
+
+		- Boeing 777 with the RR Trent 800 will operate at maximum efficiency.
+		- Boeing 777 with the GE90, or PW4000 Engine will not operate at maximum efficiency.
+
+If an engine fails, there is a 30% chance that the engine will explode and cause varying degrees of damage to the aircraft.
+	Damages can range from:
+		- Hydraulic damage
+		- Cascading engine failure
+		- Fuel leaks
+		- Loss of Wing
+		- Electrical failure
+		- and more
+
+Please keep all aircraft out of the reach of 
+	- Children
+	- Phil Swift
+	- Anthony Sullivan
+	- Chuck Norris
+	- Rick Astley
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Rules about usage of Anime Women in the performance boosting of Aircraft.
+
+Anime girls must be converted to a 3D shape/mesh if they want to participate in this program.
+
+An anime girl can only boost the power and capability of an aircraft if they are standing in it, on it, or touching it in any way. Anime girls can also be thrown into the jet engine of an aircraft for a boost, but the aircraft
+will only boost if the engine remains functional, and the giblets still remain in/on the engine.
+
+Anime girls will not offer power if they are dead, killed, or gibbed, unless they were killed inside a jet engine.
+
+
+However, if your aircraft is a trijet, if there is an anime girl in close proximity to your aircraft, the engines will shut off, unless they are on, in, or touching the aircraft in any way.
+
+Engines will restart automatically upon the anime girl being removed from the area.
+
+The flight computer is not designed to render, decode, or compute anything relating to Anime Girls. If anime is fed into the flight computer, the computer will crash, and you will have to fly on full analog mode.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Flight Computer Operational Rules.
+
+Any PC running Windows 98 in the area will cause the autopilot computer to stop functioning until the computer in question is destroyed beyond repair.
+
+Electronics that do not comply with Part 15 of the FCC rules are not to be put in close proximity of any aircraft.
+
+Playing Doki Doki Literature Club while flying is catastrophic for the flight computer.
+
+Because you are a loser and don't know how to use Linux or OS X, if you use the flight computer, you have to agree to the Microsoft Software Licensing Terms, and Microsoft Telemetry. If you do not accept to these, the flight computer
+will turn off, and you will have to use steam gauges to fly the aircraft.
+
+There is an included cassette drive on the autopilot computer. This tape is used for loading assembly programs only. Using it to play music will result in a system failure.
+
+If you decide to use a browser, NodeJS instance, or Electron Instance on the aircraft, you are required to use something based on the WebKit or Blink browser engines, and also the V8 and JSCore JavaScript engines. Using Gecko or
+ SpiderMonkey to render webpages or to run JavaScript code will cause a full system shutdown because all planes believe in WebKit superiority, and are forced to accept Blink as its part of the most popular browser.
+
+For an airplane to be considered "cool", it has to have more than 2 engines. If it does have 2 engines, it can still be considered cool, if the engines are absolutely gigantic when compared to the body of the plane such as the
+Boeing 777
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Aircraft Behavior.
+
+If you decide to do anything horny on the plane while in flight, the plane will warn you three times to stop. Then the plane will do one of 2 things depending on what it feels like doing. The plane will either jettison you from the 
+aircraft, or it will straight up explode. The latter is not very common, and only happens on older aircraft such as the Douglas DC-8. Some planes are smart, and when the
+flight attendant goes down the aisle with anything remotely hot, the plane will get turbulence and direct the boiling hot item directly to genitalia.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+Flight Crew Instructions.
+
+In the absence of an instance of the FitnessGram PACER Test, the aircraft will function normally. However, if and when the test begins, anyone onboard the aircraft will have to do the PACER. If in a commercial aircraft, the passengers 
+have to watch the pilots and all crew do the Test by running up and down the entire passenger cabin. All secondary passenger decks and stairs are included in the length of the passenger cabin.
+
